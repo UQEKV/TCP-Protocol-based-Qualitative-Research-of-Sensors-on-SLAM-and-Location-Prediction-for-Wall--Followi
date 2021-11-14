@@ -5,5 +5,5 @@ Abstract—This article investigates the measured variables from different senso
 # Result
 
 <p align="center">
-<img src="TCP-Protocol-based-Qualitative-Research-of-Sensors-on-SLAM-and-Location-Prediction-for-Wall--Followi/2D_SLAM/final.png">
+<img src="2D_SLAM/final.png">
 </p>
